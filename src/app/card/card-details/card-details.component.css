@@ -1,0 +1,19 @@
+.add-to-cart .btn-qty {
+    width: 52px;
+    height: 46px;
+  }
+
+  .add-to-cart .btn { border-radius: 0; }
+
+  ul.products li {
+    width: 200px;
+    display: inline-block;
+}
+
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
